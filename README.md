@@ -24,7 +24,7 @@ Frontend developer pre-interview repository. Please [fork][fork_from_github] thi
   * React Native Firebase
 
 #### 3. Final Product
-  * Submit the app to Google Play and invite [En-trak Product](product@en-trak.com) as an alpha tester
+  * Submit the app to Google Play and invite product@en-trak.com as an alpha tester
 
 ## Authors
 
