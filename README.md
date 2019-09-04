@@ -15,16 +15,17 @@ Frontend developer pre-interview repository. Please [fork][fork_from_github] thi
 #### 1. Design
   * You can design your own app with any UI framework
   * UX will be part of the assessment
+  * There is no backend server will be provided except the data feed, so you find a way to implement all the feature with the app
 
-#### 1. URLs
+#### 2. URLs
   * Data source: https://data.gov.hk/en-data/dataset/aahk-team1-flight-info
 
-#### 2. Frameworks
+#### 3. Frameworks
   * React Native 0.59+
   * React Native Firebase
 
-#### 3. Final Product
-  * Submit the app to Google Play and invite product@en-trak.com as an alpha tester
+#### 4. Final Product
+  * Submit an APK via any file sharing tool
 
 ## Authors
 
