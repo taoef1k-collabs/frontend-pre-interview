@@ -25,6 +25,7 @@ Frontend developer pre-interview repository. Please [fork][fork_from_github] thi
   * React Native Firebase
 
 #### 4. Final Product
+  * Check-in your source code with build instructions
   * Submit an APK via any file sharing tool
 
 ## Authors
