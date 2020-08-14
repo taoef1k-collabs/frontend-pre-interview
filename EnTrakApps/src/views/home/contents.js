@@ -100,7 +100,7 @@ export default class Contents extends Component {
                   pushLoading: true,
                 });
 
-                const selectedDate = moment(item.date + ' 07:17'); //item.time);
+                const selectedDate = moment(item.date + ' ' + item.time);
                 const rememberTime = moment(selectedDate).subtract(
                   15,
                   'minutes',
