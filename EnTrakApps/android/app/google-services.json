@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "475107877207",
+    "firebase_url": "https://en-track-7bbcb.firebaseio.com",
+    "project_id": "en-track-7bbcb",
+    "storage_bucket": "en-track-7bbcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475107877207:android:ae60883be2c5221094de12",
+        "android_client_info": {
+          "package_name": "com.entrakapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475107877207-ulb5pnmveld8149b5he227p7ckb7d2n1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-UdXktMZnVKYWeTRmv0IRQwaZ-J1whOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475107877207-ulb5pnmveld8149b5he227p7ckb7d2n1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
